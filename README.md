@@ -1,7 +1,6 @@
 ### Hi my name is Franko Karoli 👋
 #### I'm studing for my BSc degree in Digital Systems in the University of Thessaly and I'm interested in Cybersecurity.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supervillain419&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supervillain419&layout=compact&theme=dark)
 
 
 
