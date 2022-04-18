@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi my name is Franko Karoli 👋
+#### I'm studing for my BSc degree in Digital Systems in the University of Thessaly and I'm interested in Cybersecurity.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supervillain419&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **supervillain419/supervillain419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
