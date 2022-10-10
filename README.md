@@ -1,6 +1,10 @@
 ### Hi my name is Franko Karoli 👋
 #### I'm studing for my BSc degree in Cumputer Science at the University of Thessaly and I'm interested in Cybersecurity.
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/rootforce.png" alt="TryHackMe">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supervillain419&layout=compact&theme=dark)
+
 
 
 
