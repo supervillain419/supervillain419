@@ -1,5 +1,5 @@
 ### Hi my name is Franko Karoli 👋
-#### I'm studing for my BSc degree in Cumputer Science at the University of Thessaly and I'm interested in Cybersecurity.
+#### I'm an application security engineer working @Netcompany-Intrasoft.
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=supervillain419&layout=compact&theme=dark)
 
